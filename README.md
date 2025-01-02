@@ -26,15 +26,4 @@ Before running the app.y ensure model.joblib is present in the models directory 
 Run the following command:
 python app.py
 After running the command, a local connection link for the webpage will be displayed. Click on the link to open the webpage in your default browser or copy and paste it your desired browser. Input your data, and the output will be predicted using the pre-trained model.
-Once done Ctrl + C on the terminal to stop the application app.py.
-Command prompt terminal
-
-Sample data for testing
-Male sample data
-HAEMATOCRIT	HAEMOGLOBINS	ERYTHROCYTE	LEUCOCYTE	THROMBOCYTE	MCH	MCHC	MCV	AGE	SEX
-48.5	16.5	5.63	8	299	29.3	34	86.1	29	M
-31.7	10.9	3.84	15.1	45	27.3	33.1	82.6	71	M
-Female sample data
-HAEMATOCRIT	HAEMOGLOBINS	ERYTHROCYTE	LEUCOCYTE	THROMBOCYTE	MCH	MCHC	MCV	AGE	SEX
-35.4	11.9	3.9	5.3	243	30.5	33.6	90.8	35	F
-31.7	10.6	3.74	8.5	268	28.3	33.4	84.8	24	F
+Once done Ctrl + C on the terminal to stop the application app.py
